@@ -7,7 +7,7 @@ function writeCards(array) {
   }
   return newarr
 }
-
+//This dey be
 function countDown(num) {
   for (let me = num; me >= 0; me--) {
     console.log(me)
